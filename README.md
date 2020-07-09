@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning fp in ts
+- 💬 Ask me about react or node.js or typescript
+- 📫 How to reach me: https://t.me/dskrylnikov
+- ⚡ Fun fact: I think typescript is the best programming language in the universe.
+
 <!--
 **skrylnikov/skrylnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
